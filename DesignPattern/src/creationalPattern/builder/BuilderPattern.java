@@ -1,6 +1,6 @@
 package creationalPattern.builder;
 
-public class Builder {
+public class BuilderPattern {
 	
 	public static void main(String[] args) {
 		

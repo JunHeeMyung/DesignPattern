@@ -1,5 +1,5 @@
 package structuralPattern.bridge;
 
-public class Bridge {
+public class BridgePattern {
 
 }

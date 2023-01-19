@@ -1,5 +1,5 @@
 package behavioralPattern.interpreter;
 
-public class Interpreter {
+public class InterpreterPattern {
 
 }

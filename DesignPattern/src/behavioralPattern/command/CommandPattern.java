@@ -1,6 +1,6 @@
-package creationalPattern.prototype;
+package behavioralPattern.command;
 
-public class Prototype {
+public class CommandPattern {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

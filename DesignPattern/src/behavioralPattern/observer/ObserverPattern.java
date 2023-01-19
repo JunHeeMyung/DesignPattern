@@ -1,5 +1,5 @@
 package behavioralPattern.observer;
 
-public class Observer {
+public class ObserverPattern {
 
 }

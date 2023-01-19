@@ -1,5 +1,5 @@
 package behavioralPattern.state;
 
-public class State {
+public class StatePattern {
 
 }

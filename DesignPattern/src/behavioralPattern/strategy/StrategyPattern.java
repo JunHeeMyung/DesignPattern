@@ -1,5 +1,5 @@
 package behavioralPattern.strategy;
 
-public class Strategy {
+public class StrategyPattern {
 
 }

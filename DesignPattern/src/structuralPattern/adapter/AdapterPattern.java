@@ -1,6 +1,6 @@
 package structuralPattern.adapter;
 
-public class Adapter {
+public class AdapterPattern {
 	
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package structuralPattern.decorator;
 
-public class Decorator {
+public class DecoratorPattern {
 	
 	public static void main(String[] args) {
 		
