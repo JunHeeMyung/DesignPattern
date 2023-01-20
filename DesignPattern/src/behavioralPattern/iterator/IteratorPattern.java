@@ -17,7 +17,7 @@ public class IteratorPattern {
 		};
 		
 		Array array = new Array(items);
-		Iterator it = array.iternator();
+		Iterator it = array.iterator();
 		
 		while(it.next()) {
 			System.out.println(it.current().toString());
